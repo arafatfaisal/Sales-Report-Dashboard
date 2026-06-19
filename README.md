@@ -54,13 +54,9 @@ The dashboard enables management to monitor revenue trends, identify top-perform
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-> 
+> dashboard overview .png
 
-### Sales Performance
-> Add screenshot here
 
-### Regional Analysis
-> Add screenshot here
 
 ---
 
@@ -86,6 +82,3 @@ This dashboard automates manual reporting processes and provides stakeholders wi
 - KPI Development  
 - Executive Reporting  
 
----
-
-## 📁 Repository Structure
